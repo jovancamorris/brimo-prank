@@ -1,0 +1,5 @@
+build/
+*.apk
+android/.gradle/
+android/local.properties
+.DS_Store
